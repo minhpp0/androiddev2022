@@ -24,7 +24,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/monday"
+            android:text="@drawable/cute_smile_sun_24907418"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -33,14 +33,14 @@
             android:layout_height="50dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:text="@string/partly_cloudy_24_31"
+            android:text="@drawable/cute_smile_sun_24907418"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -60,7 +60,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/tuesday"
+            android:text="@drawable/cute_smile_sun_24907418"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -70,7 +70,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -78,7 +78,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:text="@string/showers_24_30"
+            android:text="showers_24_30"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -98,7 +98,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/wednesday"
+            android:text="wednesday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -108,7 +108,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -116,7 +116,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:text="@string/rain_22_23"
+            android:text="rain_22_23"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -136,7 +136,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/thursday"
+            android:text="thursday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -146,7 +146,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -154,7 +154,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/scattered_showers_22_27"
+            android:text="scattered_showers_22_27"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -174,7 +174,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/friday"
+            android:text="friday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -184,7 +184,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -192,7 +192,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/mostly_cloudy_24_31"
+            android:text="mostly_cloudy_24_31"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -212,7 +212,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/saturday"
+            android:text="saturday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -222,7 +222,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -230,7 +230,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/partly_cloudy_24_31"
+            android:text="partly_cloudy_24_31"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -250,7 +250,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/sunday"
+            android:text="sunday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -260,7 +260,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -268,7 +268,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/thunder_storms_25_28"
+            android:text="thunder_storms_25_28"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -288,7 +288,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/monday"
+            android:text="monday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -298,7 +298,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -306,7 +306,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/scattered_thunder_storms_24_27"
+            android:text="scattered_thunder_storms_24_27"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -326,7 +326,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/tuesday"
+            android:text="tuesday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -336,7 +336,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -344,7 +344,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/showers_24_26"
+            android:text="showers_24_26"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>
@@ -364,7 +364,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="20dp"
-            android:text="@string/wednesday"
+            android:text="wednesday"
             android:textAlignment="center"
             android:textSize="15sp" />
 
@@ -374,7 +374,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:src="@drawable/partly_cloudy" />
+            android:src="@drawable/cute_smile_sun_24907418" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -382,7 +382,7 @@
             android:layout_marginTop="10dp"
             android:layout_marginRight="20dp"
             android:layout_marginLeft="20dp"
-            android:text="@string/scattered_thunder_storms_24_27"
+            android:text="scattered_thunder_storms_24_27"
             android:textAlignment="center"
             android:textSize="15sp" />
     </LinearLayout>

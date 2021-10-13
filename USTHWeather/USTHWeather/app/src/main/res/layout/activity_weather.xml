@@ -18,6 +18,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         tools:layout="@layout/fragment_1" />
+    <fragment
+        android:id="@+id/forecast"
+        class="vn.edu.usth.usthweather.ForecastFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        tools:layout="@layout/fragment_2" />
 
     <ImageView
         android:id="@+id/image"
